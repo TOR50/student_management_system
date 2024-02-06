@@ -1,3 +1,5 @@
+#just a simple student management system
+
 import os
 import platform
 
